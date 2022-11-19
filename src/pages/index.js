@@ -66,7 +66,7 @@ export default function Home() {
   return (
     <Layout
       title={`HOME ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Halaman khusus untuk informasi anak PKL dan magang. Dibuat dengan menggunakan Docusaurus 2, yang memudahkan anda untuk membuat statistic site dalam bentuk doc">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
