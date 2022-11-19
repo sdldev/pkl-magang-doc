@@ -1,4 +1,4 @@
-# PKL DOC
+# PKL MAGANG DOC
 Dokumentasi untuk anak2 PKL
 
 
@@ -6,17 +6,25 @@ Dokumentasi untuk anak2 PKL
 Repo ini digunakan khusus untuk panduan dan dokumentasi PKL. Dibuat dengan [Docusaurus 2](https://docusaurus.io/),untuk memudahkan penulisan dokumentasi dalam bentuk MD 
 
 ### Installation
-
+```
+$ npm install
+```
 ```
 $ yarn
 ```
 ### Local Development
-
+```
+$ npm run start
+```
 ```
 $ yarn start
 ```
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 ### Build
+
+```
+$ npm run build
+```
 
 ```
 $ yarn build
