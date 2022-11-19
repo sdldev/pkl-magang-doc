@@ -13,7 +13,7 @@
 const config = {
   title: 'PKL MAGANG DOC',
   tagline: 'Panduan dan dokumentasi untuk kepentingan PKL dan MAGANG',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://pkl-magang-doc.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -71,11 +71,11 @@ const config = {
         style: 'light',
 
         logo: {
-          alt: 'Meta Open Source Logo',
+          alt: 'Pkl Magang Doc',
           // This default includes a positive & negative version, allowing for
           // appropriate use depending on your site's style.
           src: '/img/pkl-doc.png',
-          href: 'https://opensource.fb.com',
+          href: 'https://pkl-magang-doc.netlify.app',
         },
         // Please do not remove the credits, help to publicize Docusaurus :)
         copyright: `Copyright © ${new Date().getFullYear()} Meta Platforms, Inc. Built with Docusaurus.`,
